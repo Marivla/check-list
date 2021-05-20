@@ -1,0 +1,7 @@
+Check List Sign Up
+https://www.facebook.com/
+1. Registration
+ - checking an existing user
+ - checking for a non-existing user
+ - refusal to log in to a blocked user
+2. 
